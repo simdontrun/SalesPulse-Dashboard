@@ -106,7 +106,7 @@ SalesPulse_Project/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SalesPulse-Dashboard.git
+git clone https://github.com/simdontrun/SalesPulse-Dashboard.git
 ```
 
 ## Navigate to Project Directory
@@ -162,4 +162,4 @@ This project demonstrates practical understanding of:
 
 ### Simran
 
-# ⭐ If you found this project useful, consider giving it a star on GitHub :)
+## ⭐ Thank You :)
