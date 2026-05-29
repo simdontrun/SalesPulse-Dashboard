@@ -1,4 +1,4 @@
-# SalesPulse Dashboard 📊
+# SalesPulse Dashboard 
 
 ## Overview
 
@@ -16,7 +16,7 @@ The dashboard enables users to monitor sales performance, analyze customer behav
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 | Technology       | Purpose                    |
 | ---------------- | -------------------------- |
@@ -66,7 +66,7 @@ SalesPulse_Project/
 
 ---
 
-# 📈 Key Features
+#  Key Features
 
 * Revenue Analysis
 * Monthly Sales Trend Analysis
@@ -79,7 +79,7 @@ SalesPulse_Project/
 
 ---
 
-# 📊 Dashboard Insights
+# Dashboard Insights
 
 The Power BI dashboard provides interactive business insights including:
 
@@ -121,7 +121,7 @@ jupyter notebook
 
 ---
 
-# 📌 Future Enhancements
+# Future Enhancements
 
 * Sales Forecasting using Machine Learning
 * Customer Segmentation
@@ -131,13 +131,13 @@ jupyter notebook
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ![Dashboard Preview](dashboard/dashboard-preview.png)
 
 ---
 
-# 🧠 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates practical understanding of:
 
@@ -154,6 +154,5 @@ This project demonstrates practical understanding of:
 
 ### Simran
 
-Aspiring Data Analyst passionate about Business Intelligence, Data Visualization, and Analytics-driven decision making.
 
 ---
