@@ -1,35 +1,72 @@
 # SalesPulse Dashboard 
 
-## Overview
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-black)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-SalesPulse is an end-to-end Sales Analytics and Business Intelligence project built using Python, SQL, and Power BI.
+An end-to-end Sales Analytics and Business Intelligence project built using Python, SQL, and Power BI.
 
-The project focuses on transforming raw sales data into actionable business insights through:
+# Overview
+
+SalesPulse transforms raw sales data into actionable business insights through:
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
-* KPI Analysis
-* Interactive Dashboard Development
+* KPI Monitoring
+* Interactive Dashboard Reporting
 
-The dashboard enables users to monitor sales performance, analyze customer behavior, identify product trends, and track important business KPIs in an interactive and visually intuitive manner.
+The dashboard enables users to analyze revenue trends, product performance, customer behavior, and market contribution using intuitive and interactive visualizations.
 
----
+# Dashboard Preview
 
-#  Tech Stack
+![Dashboard Preview](dashboard/dashboard-preview.png)
+
+# Business Problem
+
+Businesses generate large volumes of sales data but often struggle to extract meaningful insights for strategic decision-making.
+
+This project solves that challenge by building an interactive analytics dashboard capable of:
+
+* Monitoring key business KPIs
+* Tracking revenue performance
+* Identifying sales trends
+* Evaluating top-performing products
+* Supporting data-driven business decisions
+
+# Tech Stack
 
 | Technology       | Purpose                    |
 | ---------------- | -------------------------- |
 | Python           | Data Analysis & Processing |
 | Pandas           | Data Manipulation          |
-| NumPy            | Numerical Operations       |
+| NumPy            | Numerical Computing        |
 | Matplotlib       | Data Visualization         |
 | Seaborn          | Statistical Visualization  |
-| SQL              | Querying & KPI Extraction  |
-| Power BI         | Dashboard & Reporting      |
+| SQL              | KPI Querying & Analysis    |
+| Power BI         | Dashboard Development      |
 | Jupyter Notebook | Development Environment    |
 
----
+# Key Features
+
+* Executive Sales Overview Dashboard
+* Revenue & Profitability Analysis
+* Monthly Revenue Trend Analysis
+* Product Performance Tracking
+* Market Contribution Analysis
+* Average Order Value (AOV) Monitoring
+* Interactive Filters & Slicers
+* KPI-Based Business Reporting
+
+# Key Insights
+
+* Identified top-performing products contributing highest revenue
+* Analyzed monthly revenue fluctuations and seasonality
+* Evaluated market-wise sales contribution
+* Monitored KPIs including Revenue, Orders, and AOV
+* Built interactive visualizations for dynamic analysis
 
 # 📂 Project Structure
 
@@ -64,50 +101,21 @@ SalesPulse_Project/
 └── .gitignore
 ```
 
----
+# Installation & Setup
 
-#  Key Features
-
-* Revenue Analysis
-* Monthly Sales Trend Analysis
-* KPI Tracking Dashboard
-* Average Order Value (AOV) Analysis
-* Customer Purchase Insights
-* Product Performance Evaluation
-* Category-wise Sales Analysis
-* Interactive Visual Reporting
-
----
-
-# Dashboard Insights
-
-The Power BI dashboard provides interactive business insights including:
-
-* Total Revenue
-* Total Orders
-* Average Order Value (AOV)
-* Monthly Revenue Trends
-* Product Category Performance
-* Sales Distribution Analysis
-* Customer Behavior Insights
-
----
-
-# ⚙️ Installation & Setup
-
-## Clone the Repository
+## Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/yourusername/SalesPulse-Dashboard.git
 ```
 
 ## Navigate to Project Directory
 
 ```bash
-cd SalesPulse_Project
+cd SalesPulse-Dashboard
 ```
 
-## Install Required Libraries
+## Install Required Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -119,40 +127,39 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
+# Dashboard Capabilities
+
+The dashboard provides:
+
+* Interactive KPI Tracking
+* Revenue Trend Monitoring
+* Product Performance Analysis
+* Market Contribution Insights
+* Dynamic Filtering & Slicing
+* Executive-Level Business Reporting
 
 # Future Enhancements
 
 * Sales Forecasting using Machine Learning
-* Customer Segmentation
+* Customer Segmentation Analysis
 * Real-Time Dashboard Integration
-* Streamlit Web Application Deployment
+* Streamlit Deployment
 * Automated Reporting Pipeline
-
----
-
-# Dashboard Preview
-
-![Dashboard Preview](dashboard/dashboard-preview.png)
-
----
 
 # Learning Outcomes
 
 This project demonstrates practical understanding of:
 
 * Data Cleaning & Preprocessing
-* Exploratory Data Analysis
-* Business KPI Design
-* Dashboard Development
-* Data Visualization Best Practices
-* Analytical Problem Solving
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* SQL-Based KPI Analysis
+* Business Intelligence Reporting
+* Dashboard Design Best Practices
+* Data Visualization Techniques
 
----
-
-# 👤 Author
+# Author
 
 ### Simran
 
-
----
+# ⭐ If you found this project useful, consider giving it a star on GitHub :)
