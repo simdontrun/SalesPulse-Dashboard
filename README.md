@@ -1,4 +1,4 @@
-# SalesPulse Dashboard 
+# SalesPulse: End-to-End Sales Analytics & Business Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
@@ -36,6 +36,17 @@ This project solves that challenge by building an interactive analytics dashboar
 * Evaluating top-performing products
 * Supporting data-driven business decisions
 
+# Business QUestions Answered
+
+This project was designed to answer key business questions that directly impact revenue growth and decision-making:
+
+•⁠  ⁠Which products generate the highest revenue?
+•⁠  ⁠Which markets contribute the most to overall sales?
+•⁠  ⁠How has revenue changed over time?
+•⁠  ⁠What seasonal patterns exist in sales performance?
+•⁠  ⁠What is the current Average Order Value (AOV)?
+•⁠  ⁠Which business actions can improve revenue and profitability?
+
 # Tech Stack
 
 | Technology       | Purpose                    |
@@ -48,6 +59,24 @@ This project solves that challenge by building an interactive analytics dashboar
 | SQL              | KPI Querying & Analysis    |
 | Power BI         | Dashboard Development      |
 | Jupyter Notebook | Development Environment    |
+
+# Analytics Workflow
+
+Raw Sales Data
+       ↓
+Data Cleaning (Python)
+       ↓
+Exploratory Data Analysis
+       ↓
+Feature Engineering
+       ↓
+SQL KPI Analysis
+       ↓
+Power BI Dashboard
+       ↓
+Business Insights
+       ↓
+Strategic Recommendations
 
 # Key Features
 
@@ -67,6 +96,34 @@ This project solves that challenge by building an interactive analytics dashboar
 * Evaluated market-wise sales contribution
 * Monitored KPIs including Revenue, Orders, and AOV
 * Built interactive visualizations for dynamic analysis
+
+# Executive Insights
+
+Key findings derived from sales analysis:
+
+•⁠  ⁠Total Revenue reached approximately 985M.
+•⁠  ⁠Market004 contributes approximately 53% of total revenue, indicating high market concentration.
+•⁠  ⁠Products 318, 316, and 324 are among the top-performing revenue generators.
+•⁠  ⁠Revenue declined from January to September before recovering during Q4.
+•⁠  ⁠Average Order Value (AOV) currently stands at approximately 6.64K.
+
+## Strategic Recommendations 
+
+### Market Diversification
+
+Revenue is heavily concentrated in a single market. Expanding marketing efforts and sales initiatives in underperforming markets can reduce dependency risk and improve revenue stability.
+
+### Product Optimization
+
+Top-performing products should receive priority in inventory planning, promotional campaigns, and sales strategies to maximize revenue opportunities.
+
+### Seasonal Revenue Planning
+
+Historical revenue fluctuations indicate opportunities for targeted campaigns before low-performing periods to improve sales consistency.
+
+### Average Order Value Growth
+
+Implementing cross-selling, upselling, and product bundling strategies can increase revenue per customer transaction.
 
 # 📂 Project Structure
 
@@ -137,6 +194,14 @@ The dashboard provides:
 * Market Contribution Insights
 * Dynamic Filtering & Slicing
 * Executive-Level Business Reporting
+
+## Executive Report
+
+A stakeholder-focused executive report summarizing key findings, KPIs, business insights, and strategic recommendations.
+
+📄 [View Executive Report](reports/SalesPulse_Executive_Report.pdf)
+
+
 
 # Future Enhancements
 
