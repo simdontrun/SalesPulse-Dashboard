@@ -36,16 +36,16 @@ This project solves that challenge by building an interactive analytics dashboar
 * Evaluating top-performing products
 * Supporting data-driven business decisions
 
-# Business QUestions Answered
+# Business Questions Answered
 
 This project was designed to answer key business questions that directly impact revenue growth and decision-making:
 
-•⁠  ⁠Which products generate the highest revenue?
-•⁠  ⁠Which markets contribute the most to overall sales?
-•⁠  ⁠How has revenue changed over time?
-•⁠  ⁠What seasonal patterns exist in sales performance?
-•⁠  ⁠What is the current Average Order Value (AOV)?
-•⁠  ⁠Which business actions can improve revenue and profitability?
+* ⁠Which products generate the highest revenue?
+* ⁠Which markets contribute the most to overall sales?
+* ⁠How has revenue changed over time?
+* ⁠What seasonal patterns exist in sales performance?
+* What is the current Average Order Value (AOV)?
+* ⁠Which business actions can improve revenue and profitability?
 
 # Tech Stack
 
@@ -62,6 +62,7 @@ This project was designed to answer key business questions that directly impact 
 
 # Analytics Workflow
 
+```text
 Raw Sales Data
        ↓
 Data Cleaning (Python)
@@ -77,6 +78,7 @@ Power BI Dashboard
 Business Insights
        ↓
 Strategic Recommendations
+```
 
 # Key Features
 
@@ -101,27 +103,27 @@ Strategic Recommendations
 
 Key findings derived from sales analysis:
 
-•⁠  ⁠Total Revenue reached approximately 985M.
-•⁠  ⁠Market004 contributes approximately 53% of total revenue, indicating high market concentration.
-•⁠  ⁠Products 318, 316, and 324 are among the top-performing revenue generators.
-•⁠  ⁠Revenue declined from January to September before recovering during Q4.
-•⁠  ⁠Average Order Value (AOV) currently stands at approximately 6.64K.
+* ⁠Total Revenue reached approximately 985M.
+* Market004 contributes approximately 53% of total revenue, indicating high market concentration.
+* Products 318, 316, and 324 are among the top-performing revenue generators.
+* ⁠Revenue declined from January to September before recovering during Q4.
+* ⁠Average Order Value (AOV) currently stands at approximately 6.64K.
 
-## Strategic Recommendations 
+# Strategic Recommendations 
 
-### Market Diversification
+## Market Diversification
 
 Revenue is heavily concentrated in a single market. Expanding marketing efforts and sales initiatives in underperforming markets can reduce dependency risk and improve revenue stability.
 
-### Product Optimization
+## Product Optimization
 
 Top-performing products should receive priority in inventory planning, promotional campaigns, and sales strategies to maximize revenue opportunities.
 
-### Seasonal Revenue Planning
+## Seasonal Revenue Planning
 
 Historical revenue fluctuations indicate opportunities for targeted campaigns before low-performing periods to improve sales consistency.
 
-### Average Order Value Growth
+## Average Order Value Growth
 
 Implementing cross-selling, upselling, and product bundling strategies can increase revenue per customer transaction.
 
